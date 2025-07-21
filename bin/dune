@@ -1,0 +1,9 @@
+(executable
+ (public_name final_project)
+ (name main)
+ (libraries final_project raylib tsdl tsdl-ttf)
+ (preprocess
+  (pps lwt_ppx))
+ (flags
+  (:standard -warn-error -A))
+ (modules main))

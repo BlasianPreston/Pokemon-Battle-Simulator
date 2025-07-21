@@ -1,0 +1,33 @@
+---
+# Members of your group.
+group:  
+  - name: Preston Williams
+    netid: ipw5
+  - name: Pedro Arruda
+    netid: poa22
+  - name: Samir Amin
+    netid: sa2232
+  - name: Dicky Ning
+    netid: dn337
+  - name: Sean Aidarhanov
+    netid: za59
+
+# Your PM.
+pm:
+  name: Yuki Suwabe
+  netid: ys462
+# Set to false if you don't want your gallery entry to be public.
+publish: false # May change later
+# Pithy title
+title: "Pokemon Battle Simulator"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ipw5/cs3110-final-project"
+# Replace the URL with your own demo video.
+demo-video-url: https://youtu.be/xbvSbk8Jcf8
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a fun Pokemon Battle Simulator where each player
+  can choose from a select amount of Pokemon and duke it out
+  against an AI opponent. Each pokemon has unique attack,
+  and hp stats, typing, as well as a variety of moves with 
+  typings of their own that affect the damage dealt to opponents.
