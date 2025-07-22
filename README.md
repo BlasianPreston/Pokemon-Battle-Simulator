@@ -48,13 +48,13 @@ The simulator provides a turn-based Pokémon battle system with a custom graphic
 This is what will show up after you run the command to start the game
 
 ```md
-![Team Choosing Screen](images/team.png)
+![Team Choosing Screen]<img width="799" height="596" alt="team" src="https://github.com/user-attachments/assets/307edd01-5671-4459-a2f7-bd81a3b8b9f8" />
 ```
 
 After you choose your team, this is what your game may look like
 
 ```md
-![Battle Gameplay](images/battle.png)
+![Battle Gameplay]<img width="801" height="598" alt="battle" src="https://github.com/user-attachments/assets/858ecc4d-cd9b-4f95-b45f-0c801ecb1a2f" />
 ```
 
 ---
